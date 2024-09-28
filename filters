@@ -3,3 +3,24 @@ youtube.com##div#contents
 youtube.com##ytd-browse.style-scope.ytd-page-manager
 youtube.com##.rich-grid-renderer-contents
 youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+
+twitch.tv##.channel-info-content > div:nth-of-type(1) > div:nth-of-type(1)
+ext-twitch.tv##.channel-info-content > div:nth-of-type(1) > div:nth-of-type(1)
+twitch.tv##.user-watcher
+ext-twitch.tv##.user-watcher
+twitch.tv##.Layout-sc-1xcs6mc-0.gvrLBv
+twitch.tv##.Layout-sc-1xcs6mc-0.jlvFz
+twitch.tv##.InjectLayout-sc-1i43xsx-0.bbhRBZ.directoryGamesList--z3VS0
+twitch.tv##.Layout-sc-1xcs6mc-0.fVIGjl
+twitch.tv##.Layout-sc-1xcs6mc-0.itHnyD > a.ScCoreButton-sc-ocjdkq-0.bepORG.ScButtonIcon-sc-9yap0r-0.fSoWBW
+twitch.tv##.simplebar-content.side-nav__scrollable_content
+twitch.tv##.navigation-link
+twitch.tv##.Layout-sc-1xcs6mc-0.fQyrMj.featured-content-carousel
+twitch.tv##.Layout-sc-1xcs6mc-0.jNrYjU.root-scrollable__wrapper > .Layout-sc-1xcs6mc-0.iTiPMO
+twitch.tv##.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav--collapsed
+twitch.tv##.Layout-sc-1xcs6mc-0.ceLdPR.side-nav.side-nav
+twitch.tv##.InjectLayout-sc-1i43xsx-0.rzgkN.scrollable-area.scrollable-area--suppress-scroll-x > .simplebar-scroll-content
+twitch.tv##div.chat-line__message
+twitch.tv##.Layout-sc-1xcs6mc-0.pMQwv
+twitch.tv##.chat-scrollable-area__message-container
+twitch.tv##.community-highlight-stack__card
