@@ -1,4 +1,4 @@
-! 28/09/2024
+! 2024-09-28
 youtube.com##ytd-browse.style-scope.ytd-page-manager
 youtube.com##.rich-grid-renderer-contents
 youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
