@@ -1,3 +1,10 @@
+! Title: wihal - distracting elements
+! Description: This blocklist removes distracting elements to enhance user focus while browsing.
+! Homepage: https://github.com/wihal/blocklist
+! Created: 2024-09-28
+! Last Updated: 2024-09-29
+! Author: https://github.com/wihal
+
 ! 2024-09-28
 youtube.com##ytd-browse.style-scope.ytd-page-manager
 youtube.com##.rich-grid-renderer-contents
