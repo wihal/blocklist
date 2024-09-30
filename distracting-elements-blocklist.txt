@@ -16,7 +16,7 @@ youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
 youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
 youtube.com##yt-chip-cloud-chip-renderer.yt-chip-cloud-renderer.style-scope:nth-of-type(2)
 youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
-||youtube.com/shorts/^
+||youtube.com/shorts/*^$document
 youtube.com##.ytd-shorts.style-scope
 youtube.com##shorts-page
 youtube.com##shorts-video
