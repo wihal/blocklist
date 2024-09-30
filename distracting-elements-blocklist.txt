@@ -5,6 +5,12 @@
 ! Last Updated: 2024-09-29
 ! Author: https://github.com/wihal
 
+! 2024-09-30
+reddit.com##.masthead
+reddit.com##.bg-neutral-background-weak
+reddit.com##.main-container:style(justify-content: center; display: flex; flex-flow: row wrap )
+reddit.com##.right-sidebar
+
 ! 2024-09-29
 youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
 youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
