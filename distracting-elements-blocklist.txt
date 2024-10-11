@@ -5,6 +5,10 @@
 ! Last Updated: 2024-09-29
 ! Author: https://github.com/wihal
 
+! 2024-10-11
+instagram.com##article
+instagram.com##._aagu
+
 ! 2024-09-30
 reddit.com##.masthead
 reddit.com##.bg-neutral-background-weak
