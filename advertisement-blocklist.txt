@@ -1,3 +1,10 @@
+! Title: wihal - advertisement blocklist
+! Description: This blocklist removes advertisements
+! Homepage: https://github.com/wihal/blocklist
+! Created: 2024-10-07
+! Last Updated: 2024-11-01
+! Author: https://github.com/wihal
+
 ! 2024-11-01
 gog.com##.welcome-offer
 gog.com##.welcome-offer-content
