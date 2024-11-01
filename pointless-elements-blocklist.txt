@@ -5,5 +5,8 @@
 ! Last Updated: 2024-09-29
 ! Author: https://github.com/wihal
 
+! 2024-11-01
+fonts.google.com##.notification
+
 ! 2024-10-08
 annas-archive.org/dyn/recent_downloads*
