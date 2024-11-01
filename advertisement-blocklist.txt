@@ -1,3 +1,7 @@
+! 2024-11-01
+gog.com##.welcome-offer
+gog.com##.welcome-offer-content
+
 ! 2024-10-07
 ||audio-ec.spotify.com^
 ||sto3.spotify.com^||audio2.spotify.com^
