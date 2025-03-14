@@ -9,6 +9,16 @@
 kitsu.app/api/edge/feeds/global
 kitsu.app/api/edge/group-categories
 kitsu.app/api/edge/group-members
+kitsu.app/api/edge/comments
+kitsu.app/api/edge/feeds/timeline
+kitsu.app/api/edge/post-likes
+kitsu.app/api/edge/post-follows
+kitsu.app/api/edge/media-reaction-votes
+kitsu.app/api/edge/streaming-links
+kitsu.app/api/edge/media-reaction-votes
+kitsu.app/api/edge/media-reactions
+kitsu.app/api/edge/media-ignores
+kitsu.app/api/edge/feeds
 myanimelist.net##.anime_discussions
 myanimelist.net##.featured
 myanimelist.net##.bookstores-recommend-plugin

@@ -2,8 +2,16 @@
 ! Description: This blocklist removes pointless elements to enhance user experience while browsing.
 ! Homepage: https://github.com/wihal/blocklist
 ! Created: 2024-09-28
-! Last Updated: 2024-09-29
+! Last Updated: 2025-03-14
 ! Author: https://github.com/wihal
+
+! 2025-03-14
+kitsu.app##.feed-aside
+kitsu.app##.user-blotter
+kitsu.app##.feed-sidebar
+kitsu.app##.feed-container
+kitsu.app##.checklist
+kitsu.app##.footer-applinks
 
 ! 2024-11-01
 fonts.google.com##.notification
