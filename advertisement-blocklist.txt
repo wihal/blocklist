@@ -2,8 +2,11 @@
 ! Description: This blocklist removes advertisements
 ! Homepage: https://github.com/wihal/blocklist
 ! Created: 2024-10-07
-! Last Updated: 2024-11-01
+! Last Updated: 2025-03-14
 ! Author: https://github.com/wihal
+
+! 2025-03-14
+myanimelist.net##.bookstores-recommend-plugin
 
 ! 2024-11-01
 gog.com##.welcome-offer
