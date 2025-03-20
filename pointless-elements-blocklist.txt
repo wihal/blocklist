@@ -2,8 +2,17 @@
 ! Description: This blocklist removes pointless elements to enhance user experience while browsing.
 ! Homepage: https://github.com/wihal/blocklist
 ! Created: 2024-09-28
-! Last Updated: 2025-03-14
+! Last Updated: 2025-03-20
 ! Author: https://github.com/wihal
+
+! 2025-03-20
+darkreader.org##.page-grid-side
+darkreader.org##.page-grid-left
+darkreader.org##.v2-banner-pie
+darkreader.org##.page-grid-inside
+darkreader.org##darkreader-backers-top-short
+darkreader.org##darkreader-pay-tiers
+darkreader.org##.pie-help
 
 ! 2025-03-14
 kitsu.app##.feed-aside
