@@ -2,8 +2,16 @@
 ! Description: This blocklist removes advertisements
 ! Homepage: https://github.com/wihal/blocklist
 ! Created: 2024-10-07
-! Last Updated: 2025-03-14
+! Last Updated: 2025-03-23
 ! Author: https://github.com/wihal
+
+! 2025-03-23
+wakapi.dev##.newsbox
+wakapi.dev##.newsbox-default
+proton.me##.button-promotion
+proton.me##.bg-promotion
+brave.com###search-ad
+vuejs.org##.banner
 
 ! 2025-03-14
 myanimelist.net##.bookstores-recommend-plugin
