@@ -2,8 +2,12 @@
 ! Description: This blocklist removes distracting elements to enhance user focus while browsing.
 ! Homepage: https://github.com/wihal/blocklist
 ! Created: 2024-09-28
-! Last Updated: 2025-03-14
+! Last Updated: 2025-03-23
 ! Author: https://github.com/wihal
+
+! 2025-03-23
+kitsu.app##.media--reactions
+kitsu.app##.media--feed
 
 ! 2025-03-14
 kitsu.app/api/edge/feeds/global
